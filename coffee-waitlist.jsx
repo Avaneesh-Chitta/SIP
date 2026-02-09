@@ -169,7 +169,8 @@ export default function CoffeeWaitlist() {
 
           {/* Friction reducer - builds trust */}
           <p className="font-body text-sm text-[#6A6A6A]">
-            No spam. Limited batches. Early access for founding tasters.
+            Get the Caf'e to your home with us. <br/>
+            Early access for founding tasters.
           </p>
         </motion.div>
       </section>
@@ -192,7 +193,7 @@ export default function CoffeeWaitlist() {
               Poor beans, artificial syrups, dessert-level sweetness.
             </p>
             <p>
-              The flavour isn't meant to complement the coffee. It's meant to mask it.
+              The flavour for them isn't meant to complement the coffee. It's meant to mask it.
             </p>
             <p>
               We think that's backwards.
@@ -230,7 +231,7 @@ export default function CoffeeWaitlist() {
               <div className="font-display text-6xl font-light text-[#8B6F47] mb-4">02</div>
               <h3 className="font-body font-medium text-lg mb-3">Flavour as a layer, not a cover</h3>
               <p className="font-body text-[#4A4A4A] leading-relaxed">
-                Naturally identical flavours, carefully measured. Think: top notes in a fragrance.
+                Naturally identical flavours, carefully measured. Experience it like a fragrance with different notes.
                 You taste coffee first. The flavour reveals it.
               </p>
             </div>
@@ -240,7 +241,7 @@ export default function CoffeeWaitlist() {
               <div className="font-display text-6xl font-light text-[#8B6F47] mb-4">03</div>
               <h3 className="font-body font-medium text-lg mb-3">Designed ratios</h3>
               <p className="font-body text-[#4A4A4A] leading-relaxed">
-                Not random flavouring. Each blend is tested for balance—enough to be distinct,
+                Not random flavouring. Each blend is tested for balance, enough to be distinct,
                 restrained enough to let the coffee speak.
               </p>
             </div>
@@ -265,13 +266,13 @@ export default function CoffeeWaitlist() {
               <span className="font-medium text-[#1A1A1A]">200ml of hot water.</span> Not boiling. Just off the boil.
             </p>
             <p>
-              <span className="font-medium text-[#1A1A1A]">One level teaspoon.</span> Stir. Let it settle for 30 seconds.
+              <span className="font-medium text-[#1A1A1A]">One teaspoon of specially crafted SIP coffee in a filter .</span> Stir. Let it settle for 30 seconds.
             </p>
             <p>
               <span className="font-medium text-[#1A1A1A]">Smell it first.</span> That's where the layers reveal themselves.
             </p>
             <p className="text-sm pt-4 border-t border-[#E8E4DD] mt-8">
-              Ground coffee can be intentional. It doesn't have to be instant to be good.
+              Ground coffee can be intentional. It doesn't have to be "instant" to be good.
             </p>
           </div>
         </motion.div>
@@ -306,25 +307,7 @@ export default function CoffeeWaitlist() {
               </ul>
             </div>
 
-            {/* Who it's not for */}
-            <div>
-              <h2 className="font-display text-2xl md:text-3xl font-light mb-6">This isn't for you if:</h2>
-              <ul className="font-body text-[#4A4A4A] leading-relaxed space-y-3">
-                <li className="flex items-start">
-                  <span className="text-[#8B6F47] mr-3 mt-1">—</span>
-                  <span>You want something sweet, dessert-like, or heavy</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-[#8B6F47] mr-3 mt-1">—</span>
-                  <span>You prefer coffee to be as simple as possible</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-[#8B6F47] mr-3 mt-1">—</span>
-                  <span>You're looking for the cheapest option</span>
-                </li>
-              </ul>
             </div>
-          </div>
         </motion.div>
       </section>
 
